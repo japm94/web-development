@@ -1017,7 +1017,7 @@ button:focus {
       width: 100px;
       height: 120px;
       position: absolute; }
-      @media (max-width: 380px) {
+      @media (max-width: 365px) {
         .banner_area .banner_inner .shape {
           display: none; } }
 
